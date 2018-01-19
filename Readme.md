@@ -17,7 +17,7 @@ import {
 } from 'bezier-intersect';
 ```
 
-```
+```html
 <script src="https://unpkg.com/bezier-intersect"></script>
 <script>
 var res = [];

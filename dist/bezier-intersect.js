@@ -136,8 +136,8 @@ function quadBezierLine(
   // Determine new c coefficient
   cl = a1x * a2y - a2x * a1y;
 
-  // Transform cubic coefficients to line's coordinate system and find roots
-  // of cubic
+  // Transform cubic coefficients to line's coordinate system
+  // and find roots of cubic
   var roots = getPolynomialRoots(
     // dot products => x * x + y * y
     nx * c2x + ny * c2y,

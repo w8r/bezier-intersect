@@ -1,4 +1,4 @@
-# bezier-intersect
+# bezier-intersect [![npm version](https://badge.fury.io/js/bezier-intersect.svg)](https://badge.fury.io/js/bezier-intersect) [![build](https://travis-ci.org/w8r/bezier-intersect.svg?branch=master)](https://travis-ci.org/w8r/bezier-intersect)
 
 Set of functions to find intersections between lines and rectangles and Bezier curves of order 2 and 3. Based on [thelonious/js-intersections](https://github.com/thelonious/js-intersections/), but with the abstractions removed and some performance tweaking.
 

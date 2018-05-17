@@ -29,5 +29,17 @@
     "dist"
   ],
   "author": "Alexander Milevski <info@w8r.name>",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w8r/bezier-intersect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w8r/bezier-intersect/issues"
+  },
+  "homepage": "https://github.com/w8r/bezier-intersect#readme"
 }

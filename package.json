@@ -3,6 +3,8 @@
   "version": "0.0.2",
   "description": "intersections between bezier curves of order 2, 3 and lines and rectangles",
   "main": "dist/bezier-intersect.js",
+  "module": "index",
+  "jsnext:main": "index",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -26,7 +28,7 @@
     "cubic"
   ],
   "files": [
-    "dist"
+    "dist", "src", "index.js"
   ],
   "author": "Alexander Milevski <info@w8r.name>",
   "license": "MIT",

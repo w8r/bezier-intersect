@@ -1,6 +1,6 @@
 {
   "name": "bezier-intersect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "intersections between bezier curves of order 2, 3 and lines and rectangles",
   "main": "dist/bezier-intersect.js",
   "module": "index",
@@ -28,7 +28,9 @@
     "cubic"
   ],
   "files": [
-    "dist", "src", "index.js"
+    "dist",
+    "src",
+    "index.js"
   ],
   "author": "Alexander Milevski <info@w8r.name>",
   "license": "MIT",
